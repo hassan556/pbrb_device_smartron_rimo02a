@@ -1,0 +1,1 @@
+# twrp_device_smartron_rimo02a
